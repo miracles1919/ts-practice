@@ -1,0 +1,12 @@
+{
+  "name": "ts-practice",
+  "version": "1.0.0",
+  "description": "typescript practice",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "dependencies": {
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  }
+}
